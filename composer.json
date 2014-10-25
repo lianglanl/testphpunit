@@ -1,0 +1,11 @@
+{
+    "name": "Tests",
+    "license": "",
+    "type": "project",
+    "description": "Kdt Tests",
+    "autoload": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    }
+}
