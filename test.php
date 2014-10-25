@@ -1,3 +1,4 @@
 <?php
-echo 'hihi';
-echo 'has';
+echo phpinfo();
+?>
+
