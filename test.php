@@ -1,3 +1,3 @@
 <?php
-echo 'hihi';
-ww?>
+echo phpinfo();
+?>
